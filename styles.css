@@ -1,0 +1,16 @@
+body{
+	background:#B0E0E6;
+}
+h1{
+	text-align:center;
+	font-size:200px;
+}
+.block{
+	background:#DDA0DD;
+	height:30;
+	color:#FF4500;
+	text-align:center;
+}
+.block h1{
+	font-size:50px;
+}
